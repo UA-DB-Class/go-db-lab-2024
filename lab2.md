@@ -24,9 +24,11 @@ we encourage you to **start early**!
 
 ## 1. Getting started
 
-You should begin with the code you submitted for Lab 1 (if you did not submit
-code for Lab 1, or your solution didn't work properly, contact us to discuss
-options). Additionally, we are providing extra source and test files for this
+You should begin with the code you submitted for Lab 1.
+
+If you did not submit code for Lab 1, or your solution didn't work properly, you can check out the folder lab1-solutions/.
+
+Additionally, we are providing extra source and test files for this
 lab that are not in the original code distribution you received.
 
 ### 1.1. Getting Lab 2
@@ -549,7 +551,7 @@ $ zip -r submission.zip godb/ lab2-writeup-username1.txt lab2-writeup-username2.
 ### 3.3. Submitting a bug
 
 Please submit (friendly!) bug reports to
-[6.5830-staff@mit.edu](mailto:6.5830-staff@mit.edu). When you do, please try to
+[caolei@arizona.edu](mailto:caolei@arizona.edu). When you do, please try to
 include:
 
 * A description of the bug.

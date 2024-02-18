@@ -481,12 +481,6 @@ clearly who you worked with, if anyone, on your individual writeup.
 
 ### 3.2. Submitting your assignment
 
-<!--
-To submit your code, please create a <tt>6.830-lab1.tar.gz</tt> tarball (such
-that, untarred, it creates a <tt>6.830-lab1/src/simpledb</tt> directory with
-your code) and submit it on the [6.830 Stellar Site](https://stellar.mit.edu/S/course/6/sp13/6.830/index.html). You can use the `ant handin` target to generate the tarball.
--->
-
 We will be using Gradescope to autograde all programming assignments. You should
 have all been invited to the class instance; if not, please check Piazza for an
 invite code. If you are still having trouble, let us know and we can help you
@@ -513,7 +507,7 @@ $ zip -r submission.zip godb/ lab1-writeup-username1.txt lab1-writeup-username2.
 ### 3.3. Submitting a bug
 
 Please submit (friendly!) bug reports to
-[6.5830-staff@mit.edu](mailto:6.5830-staff@mit.edu). When you do, please try to
+[caolei@arizona.edu](mailto:caolei@arizona.edu). When you do, please try to
 include:
 
 * A description of the bug.
